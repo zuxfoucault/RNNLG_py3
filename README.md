@@ -1,6 +1,6 @@
 # RNNLG
 
-Note: This repo is adapted for Python3
+**Note**: This repo is adapted for Python3 by zuxfoucault
 
 RNNLG is an open source benchmark toolkit for **Natural Language Generation** (NLG) in spoken dialogue system application domains. It is released by **Tsung-Hsien (Shawn) Wen** from **Cambridge Dialogue Systems Group** under **Apache License 2.0**. 
 
